@@ -1,0 +1,40 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.scrollbar-hide::-webkit-scrollbar {
+display: none;
+}
+.scrollbar-hide {
+-ms-overflow-style: none;
+scrollbar-width: none;
+}
+
+
+body { font-family: 'Open Sans', sans-serif; }
+
+.custom-list li::marker {
+    color: #00a63e;       
+    font-size: 1.4em; 
+  }
+
+#slider::-webkit-scrollbar {
+  display: none;
+}
+#slider {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;     /* Firefox */
+}
+
+.swiper-pagination-bullet {
+  background-color: var(--color-lime-700) !important;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: var(--color-lime-500) !important; /* Tailwind yellow-400 */
+}
+
+

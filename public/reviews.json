@@ -1,0 +1,56 @@
+[
+{
+"id": 1,
+"title": "Absolutely love my new Monstera!",
+"text": "Absolutely love my new Monstera! It arrived in perfect condition and the care instructions were so helpful.",
+"product": "Monstera Deliciosa",
+"user": "Jake Chen",
+"avatar": "https://i.pravatar.cc/40?img=1",
+"time": "1 week ago"
+},
+{
+"id": 2,
+"title": "Service is outstanding",
+"text": "The service is outstanding! When I had questions about caring for my fiddle leaf fig, they responded within hours.",
+"product": "Fiddle Leaf Fig",
+"user": "Emily Ross",
+"avatar": "https://i.pravatar.cc/40?img=2",
+"time": "2 weeks ago"
+},
+{
+"id": 3,
+"title": "Great for beginners",
+"text": "As a beginner plant parent, Plantree’s guides gave me confidence. All three plants I ordered are thriving!",
+"product": "Indoor Combo Pack",
+"user": "Sophia Lee",
+"avatar": "https://i.pravatar.cc/40?img=3",
+"time": "3 days ago"
+},
+{
+"id": 4,
+"title": "Fast shipping",
+"text": "Fast shipping, healthy plants, and excellent packaging. The succulent collection looks amazing!",
+"product": "Succulent Pack",
+"user": "Daniel Cruz",
+"avatar": "https://i.pravatar.cc/40?img=4",
+"time": "1 month ago"
+},
+{
+"id": 5,
+"title": "Great quality plants",
+"text": "Great quality plants at a reasonable price. I’ve already ordered again for my office!",
+"product": "Office Plant Set",
+"user": "Liam Brown",
+"avatar": "https://i.pravatar.cc/40?img=5",
+"time": "5 days ago"
+},
+{
+"id": 6,
+"title": "Eco-friendly packaging",
+"text": "Love the eco-friendly packaging and fast delivery. The plants were fresh and healthy!",
+"product": "Eco Pack",
+"user": "Olivia Davis",
+"avatar": "https://i.pravatar.cc/40?img=6",
+"time": "2 days ago"
+}
+]

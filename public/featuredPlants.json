@@ -1,0 +1,57 @@
+[{
+"id": 1,
+"category": "Houseplant",
+"name": "Snake Plant",
+"img": "img/plant-1.png",
+"price": "৳650",
+"rating": "⭐⭐⭐⭐",
+"reviews": 30
+},
+{
+"id": 2,
+"category": "Houseplant",
+"name": "Monstera Deliciosa",
+"img": "img/plant-2.png",
+"price": "৳500",
+"rating": "⭐⭐⭐⭐",
+"reviews": 30
+},
+{
+"id": 3,
+"category": "Houseplant",
+"name": "ZZ Plant",
+"img": "img/plant-3.png",
+"price": "৳900",
+"rating": "⭐⭐⭐⭐☆",
+"reviews": 30
+},
+{
+"id": 4,
+"category": "Houseplant",
+"name": "Aloe Vera",
+"img": "img/plant-4.png",
+"price": "৳600",
+"rating": "⭐⭐⭐⭐⭐",
+"reviews": 50
+},
+{
+"id": 5,
+"category": "Houseplant",
+"name": "Peace Lily",
+"img": "img/plant-5.png",
+"price": "৳750",
+"rating": "⭐⭐⭐⭐☆",
+"reviews": 40
+},
+{
+"id": 6,
+"category": "Houseplant",
+"name": "Areca Palm",
+"img": "img/plant-6.png",
+"price": "৳1200",
+"rating": "⭐⭐⭐⭐⭐",
+"reviews": 60
+}
+]
+
+
